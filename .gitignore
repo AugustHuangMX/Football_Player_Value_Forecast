@@ -1,0 +1,26 @@
+# 在项目根目录创建或编辑 .gitignore
+cat > .gitignore << 'EOF'
+# R specific
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Data files - DO NOT upload to GitHub
+data/*.csv
+data/*.dta
+data/*.xlsx
+data/*.xls
+
+# Keep only README in data folder
+!data/README.md
+!data/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+EOF

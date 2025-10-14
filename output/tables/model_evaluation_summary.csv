@@ -1,0 +1,3 @@
+model,rmse,rsq,mae,mape
+Linear Regression,1.0009,0.6869,0.8006,5.7859
+Random Forest,0.9094,0.745,0.7225,5.1916
