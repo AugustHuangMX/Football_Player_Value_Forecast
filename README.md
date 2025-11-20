@@ -2,7 +2,7 @@
 
 **Author:** Minxing Huang  
 **Affiliation:** London School of Economics, MSc Econometrics and Mathematical Economics  
-**Contact:** m.huang45@lse.ac.uk  
+**Contact:** m.huang22@lse.ac.uk  
 **Date:** October 2025
 
 ## Overview
